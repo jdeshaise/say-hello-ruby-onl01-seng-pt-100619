@@ -1,6 +1,7 @@
 # Build your say_hello method here
 
 def say_hello
-  pts hello 
+  puts hello 
   
 end
+say_hello
